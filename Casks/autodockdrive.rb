@@ -10,7 +10,7 @@ cask "autodockdrive" do
   app "AutoDockDrive.app"
 
   zap trash: [
-    "~/Library/Preferences/com.wihay.AutoDockDrive.plist",
+    "~/Library/Preferences/com.willyhay22.AutoDockDrive.plist",
     "~/Library/Logs/AutoDockDrive.log"
   ]
 end
