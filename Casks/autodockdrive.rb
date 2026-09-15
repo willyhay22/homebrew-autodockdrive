@@ -1,6 +1,6 @@
 cask "autodockdrive" do
-  version "1.2.2"
-  sha256 "7752a10204ab7d8f3aa343dcc9de6e17c90a825f24f7f591cd8fdc4bff6c4b0e"
+  version "1.3.0"
+  sha256 "a5e4ee5f6f9779ceea306823084d54bb8b239b30120071227ea8492622fff397"
 
   url "https://github.com/willyhay22/AutoDockDrive/releases/download/v#{version}/AutoDockDrive-#{version}.dmg"
   name "AutoDockDrive"
